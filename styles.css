@@ -1,0 +1,44 @@
+body{
+	background-color:#F5F5F5;
+}
+
+
+.wrap {
+	
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+.button{
+width: 200px;
+margin: 0 auto;
+display: block;}
+
+ .btn {
+width: 200px;
+margin: 0 auto;
+display: block;}
+
+.button{
+	 background-color: lightblue;
+  color: black;
+  
+	
+}
+
+.button:hover {
+  background-color: Khaki;
+  color: black;
+}
+.btn{
+  background-color: lightblue;
+  color: black;
+  
+}
+.btn:hover {
+  background-color: Khaki;
+  color: black;
+}
